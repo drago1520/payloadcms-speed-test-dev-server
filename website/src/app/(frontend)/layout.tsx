@@ -35,7 +35,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
           />
 
           <Header />
-          test123 oohhhhjhjjhjhjhjhj jjjjkj
+          hk
           {children}
           <Footer />
         </Providers>

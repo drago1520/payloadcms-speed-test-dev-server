@@ -57,7 +57,7 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
           <LivePreviewListener />
 
           <Header />
-          jkjlk hj j k jkjkjkjk
+          jkjlk hj j k jkjkjkjkjl
           <main>{children}</main>
           <Footer />
         </Providers>

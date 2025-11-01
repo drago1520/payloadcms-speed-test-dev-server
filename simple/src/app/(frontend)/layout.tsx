@@ -12,7 +12,7 @@ export default async function RootLayout(props: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <body>
-        <main>{children}</main>
+        <main>jkjfkffjok but what if I start wrtiting fast tgegrerr ok that's acceptablehj{children}</main>
       </body>
     </html>
   )
